@@ -1,3 +1,7 @@
-
-#ignore all.txt files
+#Ignore all.txt files:
 *.txt
+
+#Ignore vim swap files:
+*~
+*.swp
+*.swo
